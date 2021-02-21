@@ -1,0 +1,39 @@
+body {
+background-color: rgb(213, 226, 238);
+justify-content: center;
+text-justify: auto;
+}
+
+.heading {
+text-align: center;
+padding: 50px;
+}
+
+.nikola {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding-bottom: 30px;
+    text-justify: ;
+}
+
+.msg {
+    padding-top: 30px;
+    font-size: 1.5em;
+}
+
+.msg3 {
+    font-weight: bold;
+}
+ol, ul {
+    font-size: 1.5em;
+}
+li {
+    font-size: 1em; 
+}
+
+
+
+ 
+
