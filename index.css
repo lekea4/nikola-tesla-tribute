@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
 background-color: rgb(213, 226, 238);
 justify-content: center;
@@ -7,6 +11,14 @@ text-justify: auto;
 .heading {
 text-align: center;
 padding: 50px;
+margin-top: 50px;
+margin-bottom: auto;
+background-color: black;
+color: cornsilk;
+}
+
+.main-content{
+    text-justify: inter-word;
 }
 
 .nikola {
